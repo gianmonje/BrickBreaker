@@ -1,0 +1,365 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 581bfc910ee4f064d935c272d2c57fa7, type: 3}
+  m_Name: LevelConfig
+  m_EditorClassIdentifier: 
+  levelCollection:
+  - levelID: 1
+    levelName: Level1-1
+    levelButtonSprite: {fileID: 21300000, guid: 702b6f132114e1644a21831aca6bf014,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: b98ae9ad9c4647f40bc77ec918cfb69f, type: 3}
+    levelBackground: {fileID: 21300000, guid: d88a6355cb46157418b0910f0501f3e4, type: 3}
+    lockStatus: 0
+  - levelID: 2
+    levelName: Level1-2
+    levelButtonSprite: {fileID: 21300000, guid: 943aebe1e9e80ff439c91afe1510735c,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: a3a2ee137c7e672408002a09f2bf9516, type: 3}
+    levelBackground: {fileID: 21300000, guid: 93a46a51d73ddbe4785a424606f2aa47, type: 3}
+    lockStatus: 0
+  - levelID: 3
+    levelName: Level1-3
+    levelButtonSprite: {fileID: 21300000, guid: 04e52ba9137b5654593df46515a750a4,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 1088115ed4fb46440bce4ca89304f953, type: 3}
+    levelBackground: {fileID: 21300000, guid: 6e7479cdaa943c54b9540868bcc8be78, type: 3}
+    lockStatus: 0
+  - levelID: 4
+    levelName: Level1-4
+    levelButtonSprite: {fileID: 21300000, guid: 9a3eb685abf4c7c4496be10055784d6b,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 8a02cd90ddb2ac14f8143a9324c9cf72, type: 3}
+    levelBackground: {fileID: 21300000, guid: 3c68725f9697bca4fa81c31911f65b9b, type: 3}
+    lockStatus: 0
+  - levelID: 5
+    levelName: Level1-5
+    levelButtonSprite: {fileID: 21300000, guid: 8fe5e5d067155514096b903105ca8eca,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 5234ed0017334b24d94f1c7b8988bd20, type: 3}
+    levelBackground: {fileID: 21300000, guid: cd62df6d7eb84464db7967b458e4fff6, type: 3}
+    lockStatus: 0
+  - levelID: 6
+    levelName: Level1-6
+    levelButtonSprite: {fileID: 21300000, guid: f3e644f7d798e3e4686cdadd04a5e190,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: f0ec356813188ec479a1c790396fe64b, type: 3}
+    levelBackground: {fileID: 21300000, guid: 9ae43ccf0da4d8b428ace7da6ab255b5, type: 3}
+    lockStatus: 0
+  - levelID: 7
+    levelName: Level1-7
+    levelButtonSprite: {fileID: 21300000, guid: ad5a29b2936ca964f8be5dd9163fe754,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: d7f71cdb20dd2d149a8c7306aa21075a, type: 3}
+    levelBackground: {fileID: 21300000, guid: 9cce042b73ca0a4429e76fc0bca11b0a, type: 3}
+    lockStatus: 0
+  - levelID: 8
+    levelName: Level1-8
+    levelButtonSprite: {fileID: 21300000, guid: eaacab62c23693c4ea385dc76891f337,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: bcb095805dd4e604a9083dd51b12f696, type: 3}
+    levelBackground: {fileID: 21300000, guid: 7270e5b80d05d004fa75267ccbc7a164, type: 3}
+    lockStatus: 0
+  - levelID: 9
+    levelName: Level1-9
+    levelButtonSprite: {fileID: 21300000, guid: 23c9909420a4b804f9497bc9b9056752,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 73ba239be166e504e9ec74fb8c5d3fd3, type: 3}
+    levelBackground: {fileID: 21300000, guid: 04f3d7f5e0743b548ad957795024c52c, type: 3}
+    lockStatus: 0
+  - levelID: 10
+    levelName: Level1-10
+    levelButtonSprite: {fileID: 21300000, guid: 9890d05875df52b4cb174a979e4aefe3,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: a504820d6cea29e438ab8d05bd3bf9b1, type: 3}
+    levelBackground: {fileID: 21300000, guid: 0fd42fc98f35a4a4da70fdd4b6a339e8, type: 3}
+    lockStatus: 0
+  - levelID: 11
+    levelName: Level1-11
+    levelButtonSprite: {fileID: 21300000, guid: 13086eb7a05c7b14e992eb9582848a63,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 81584082a4f6c9646b284bce06471449, type: 3}
+    levelBackground: {fileID: 21300000, guid: 9e3833747022678408aebce7870aa591, type: 3}
+    lockStatus: 0
+  - levelID: 12
+    levelName: Level1-12
+    levelButtonSprite: {fileID: 21300000, guid: 8f67b8e9de024094eb77e450368472cc,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 7dcc794726785f549b43bd8d7f3a1a08, type: 3}
+    levelBackground: {fileID: 21300000, guid: df4c94e8d746bed4f902c95d41c19f0c, type: 3}
+    lockStatus: 0
+  - levelID: 13
+    levelName: Level1-13
+    levelButtonSprite: {fileID: 21300000, guid: 2cacf23ad41ae39429216604525269fa,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 22b715bca8c9b9740a568845932b30b3, type: 3}
+    levelBackground: {fileID: 21300000, guid: 4c9942b9b283b334c98c4019ec707b6a, type: 3}
+    lockStatus: 0
+  - levelID: 14
+    levelName: Level1-14
+    levelButtonSprite: {fileID: 21300000, guid: 96ec5a4107ab9b6478dffe35d63eb4f2,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: aa41266325ae6b74ba271a661cd63e4c, type: 3}
+    levelBackground: {fileID: 21300000, guid: 6a9444568e08de64bb64d1c21c0e0160, type: 3}
+    lockStatus: 0
+  - levelID: 15
+    levelName: Level1-15
+    levelButtonSprite: {fileID: 21300000, guid: 1db5610ba2f8a9946bb0d7f4164bdcd4,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: d90d1ace577bec64a9b47370c2c6250d, type: 3}
+    levelBackground: {fileID: 21300000, guid: 75263ea17bf6ffc468b06c8f7c1be2a2, type: 3}
+    lockStatus: 0
+  - levelID: 16
+    levelName: Level1-16
+    levelButtonSprite: {fileID: 21300000, guid: 2e696a12da6e261488846bbe85cf5c91,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 91855f475c32d43478ebaaf30f3e1764, type: 3}
+    levelBackground: {fileID: 21300000, guid: ab365f434ec566f429ec2e8f84d2e72e, type: 3}
+    lockStatus: 0
+  - levelID: 17
+    levelName: Level1-17
+    levelButtonSprite: {fileID: 21300000, guid: 929c50cb74365f3438eeb44dc2d6a81a,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: c38ea36066f2a2e48a4e86dbfff594c0, type: 3}
+    levelBackground: {fileID: 21300000, guid: 3489d7db7e86aed43878d6a790cd6bd8, type: 3}
+    lockStatus: 0
+  - levelID: 18
+    levelName: Level1-18
+    levelButtonSprite: {fileID: 21300000, guid: 0a18580a62d0ed5459b7e81ed3796f33,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 6751471eb214a1a42be6523db705cbfb, type: 3}
+    levelBackground: {fileID: 21300000, guid: 03203cdbc0497d54d9f4c597fce7f0a4, type: 3}
+    lockStatus: 0
+  - levelID: 19
+    levelName: Level1-19
+    levelButtonSprite: {fileID: 21300000, guid: f67991fedb65422499c603f3c5fd00b2,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 2878100bf78e2a140b3cee196632d851, type: 3}
+    levelBackground: {fileID: 21300000, guid: 7363b822fd000904da4379268fc11ce8, type: 3}
+    lockStatus: 0
+  - levelID: 20
+    levelName: Level1-20
+    levelButtonSprite: {fileID: 21300000, guid: 8d6b9242d8d0bc641924af76088349f0,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 2ade29fbd8664764992349a622fb66af, type: 3}
+    levelBackground: {fileID: 21300000, guid: b5ef427c236974a4385a4e917963adab, type: 3}
+    lockStatus: 1
+  - levelID: 21
+    levelName: Level1-21
+    levelButtonSprite: {fileID: 21300000, guid: 199dfbf53c9600243998c8f865f81267,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: f2678ade609b0c041a829ab8dfc35ac2, type: 3}
+    levelBackground: {fileID: 21300000, guid: 1cfa47116fe46ae45ae31b41203aeb32, type: 3}
+    lockStatus: 0
+  - levelID: 22
+    levelName: Level1-22
+    levelButtonSprite: {fileID: 21300000, guid: dfb34935c3c1ce0438a1ab1f24d48890,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: b6931814f4b8b7e4e9712efc38b33e08, type: 3}
+    levelBackground: {fileID: 21300000, guid: f11ccd1f6b4217e4f8d14bc1973f3c7b, type: 3}
+    lockStatus: 0
+  - levelID: 23
+    levelName: Level1-23
+    levelButtonSprite: {fileID: 21300000, guid: e128f4d0713b45740b34e0da7c414a2e,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 4bec23d0c0af4f244beacea5ced1a1a2, type: 3}
+    levelBackground: {fileID: 21300000, guid: 78879efa2b1404e439fe7882bbbec425, type: 3}
+    lockStatus: 0
+  - levelID: 24
+    levelName: Level1-24
+    levelButtonSprite: {fileID: 21300000, guid: d59363f153d1115418b771986e33024e,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 7c1d04b74d7dfd340bdbb057aff6fc2a, type: 3}
+    levelBackground: {fileID: 21300000, guid: 3cc6255a67e3dd64b95818d8dfe6bbac, type: 3}
+    lockStatus: 0
+  - levelID: 25
+    levelName: Level1-25
+    levelButtonSprite: {fileID: 21300000, guid: 4a0a17c1368e83f46b0c66b7f5b3e22e,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 07469e495e7a5004a88dec4603a45731, type: 3}
+    levelBackground: {fileID: 21300000, guid: 805eabe9ff39f2a4ea7b3586af71b625, type: 3}
+    lockStatus: 0
+  - levelID: 26
+    levelName: Level1-26
+    levelButtonSprite: {fileID: 21300000, guid: 7ca964aee3ead9243ac072654a96473d,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 378168cb21b883049a66231fd517110b, type: 3}
+    levelBackground: {fileID: 21300000, guid: 036eef6addcb86441a03be60ed9f8a07, type: 3}
+    lockStatus: 1
+  - levelID: 27
+    levelName: Level1-27
+    levelButtonSprite: {fileID: 21300000, guid: 395916f8f75ef124ab5cd11d1e7bf53b,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 8829999b4a539774494f452e78223eac, type: 3}
+    levelBackground: {fileID: 21300000, guid: 85ad37d42e6b82c4992f7eaf60f32f0c, type: 3}
+    lockStatus: 0
+  - levelID: 28
+    levelName: Level1-28
+    levelButtonSprite: {fileID: 21300000, guid: cfe6676814508b749b19d4b54a139bdb,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 808430a17343f1a4394c104116ad5d21, type: 3}
+    levelBackground: {fileID: 21300000, guid: 942fafced2544b045b7fb21acd3d0590, type: 3}
+    lockStatus: 0
+  - levelID: 29
+    levelName: Level1-29
+    levelButtonSprite: {fileID: 21300000, guid: 8c9ac94da21c64341928e3b79ae14909,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 31f6fcbe0fc0c4a408e8a13cb72c4f62, type: 3}
+    levelBackground: {fileID: 21300000, guid: 728d9af6bbe60ad419b9d56f1fdd6c2d, type: 3}
+    lockStatus: 0
+  - levelID: 30
+    levelName: Level1-30
+    levelButtonSprite: {fileID: 21300000, guid: daea32b5d60adbb488130def0a073c39,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 2d2e0c70990c02443870b9c14da56f11, type: 3}
+    levelBackground: {fileID: 21300000, guid: c3d8fd2d8f04221478de7a9b85de54c7, type: 3}
+    lockStatus: 0
+  - levelID: 31
+    levelName: Level1-31
+    levelButtonSprite: {fileID: 21300000, guid: 01ed73318f05807448ad9fe6173c0fb2,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 4bb64161091cb5a49912edae2128b709, type: 3}
+    levelBackground: {fileID: 21300000, guid: 8cadadd1f4800f04d87730ca5bdce298, type: 3}
+    lockStatus: 0
+  - levelID: 32
+    levelName: Level1-32
+    levelButtonSprite: {fileID: 21300000, guid: 4f8b3a2ed05e6cf4ba349cd223cc9251,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: a179d84966b35504fb3d3a2446d25c56, type: 3}
+    levelBackground: {fileID: 21300000, guid: 767f531f833089746a4d4c75251878ca, type: 3}
+    lockStatus: 0
+  - levelID: 33
+    levelName: Level1-33
+    levelButtonSprite: {fileID: 21300000, guid: 7ebc671344f02d14083d2600223d4586,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 162f8a93e2f41bb45bfc2fd0e6c3af1f, type: 3}
+    levelBackground: {fileID: 21300000, guid: dc693b33837a9104d9b46047215d8336, type: 3}
+    lockStatus: 0
+  - levelID: 34
+    levelName: Level1-34
+    levelButtonSprite: {fileID: 21300000, guid: ab0b830de8e08754693d576cb96853ca,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 6d944f391c09e7745b11665af5c1d7fe, type: 3}
+    levelBackground: {fileID: 21300000, guid: bfdf709565682534598fea2abd5d354b, type: 3}
+    lockStatus: 1
+  - levelID: 35
+    levelName: Level1-35
+    levelButtonSprite: {fileID: 21300000, guid: e5219f9ff56535044a56a6f904291637,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: b7d590c5fdb54ed4aa119b052c9fc4ee, type: 3}
+    levelBackground: {fileID: 21300000, guid: e0cfdd24a4649de4da042faf76f5d9e5, type: 3}
+    lockStatus: 1
+  - levelID: 36
+    levelName: Level1-36
+    levelButtonSprite: {fileID: 21300000, guid: 13014217ff5677a4880b8a154a9728db,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: a9b3d3cec0bcb9c4a81109d577b54d26, type: 3}
+    levelBackground: {fileID: 21300000, guid: 99ecaa13a85092f47a2acc0f50a01bfe, type: 3}
+    lockStatus: 1
+  - levelID: 37
+    levelName: Level1-37
+    levelButtonSprite: {fileID: 21300000, guid: d0205eb639b9fca4b9620d73943cbca8,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: b60caa110c5a0f0478fd6cae7de9fa97, type: 3}
+    levelBackground: {fileID: 21300000, guid: d7188a8401dc12d4ebd3eb36de83955b, type: 3}
+    lockStatus: 1
+  - levelID: 38
+    levelName: Level1-38
+    levelButtonSprite: {fileID: 21300000, guid: ccfd8a8d01a804c45821fabcd3e47d54,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: ddbe63eff4ec8f94085e12c39065f401, type: 3}
+    levelBackground: {fileID: 21300000, guid: 3e8893f53e6490d4bab480e8e0cda207, type: 3}
+    lockStatus: 1
+  - levelID: 39
+    levelName: Level1-39
+    levelButtonSprite: {fileID: 21300000, guid: 11537f9251a4dbd4b8155dde723ee012,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 50a94ce45b88e284096357ae7c6c92d7, type: 3}
+    levelBackground: {fileID: 21300000, guid: 923dbca3342faa14b927838fcc9871b4, type: 3}
+    lockStatus: 1
+  - levelID: 40
+    levelName: Level1-40
+    levelButtonSprite: {fileID: 21300000, guid: 9cf860f9e5ce6e440919181bbee9df1a,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: ccae6fceec6bbf54bb113b836368798e, type: 3}
+    levelBackground: {fileID: 21300000, guid: 1319bb12bcb984f4ebef1ae4c3f78fb8, type: 3}
+    lockStatus: 1
+  - levelID: 41
+    levelName: Level1-41
+    levelButtonSprite: {fileID: 21300000, guid: ede94034331d0f24f8f0404cf2b92654,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: d4dab856580891a43b3a7a611c4fb5cd, type: 3}
+    levelBackground: {fileID: 21300000, guid: e5ef60b51bd5f8f4a90a7f1f31eaf95d, type: 3}
+    lockStatus: 1
+  - levelID: 42
+    levelName: Level1-42
+    levelButtonSprite: {fileID: 21300000, guid: a615358a0ce1df947a8c7f03bc9ecbe3,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: c540bd7cd15fe594d993c2f65a43cd9c, type: 3}
+    levelBackground: {fileID: 21300000, guid: 3e619b40ce8055c4ca23bb0bb8bfc8b7, type: 3}
+    lockStatus: 1
+  - levelID: 43
+    levelName: Level1-43
+    levelButtonSprite: {fileID: 21300000, guid: 0a1e123bdbac0f4449beeb3ec98735e6,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: e0a432487bc6a814eab97f860a91425e, type: 3}
+    levelBackground: {fileID: 21300000, guid: c8e9645f392b4ba418f2980e1ebb3ac4, type: 3}
+    lockStatus: 1
+  - levelID: 44
+    levelName: Level1-44
+    levelButtonSprite: {fileID: 21300000, guid: 5968682da5e0f354da479b8aad045337,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: ddb7faf6af06f744f8f78c4d3e4b5dac, type: 3}
+    levelBackground: {fileID: 21300000, guid: 9e3931f5a22a44e4d906d6eebb8b4e5b, type: 3}
+    lockStatus: 1
+  - levelID: 45
+    levelName: Level1-45
+    levelButtonSprite: {fileID: 21300000, guid: 64c47c6d393b6a44c820f6ef5222239c,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 17fe19f57d120e84090e8958602df001, type: 3}
+    levelBackground: {fileID: 21300000, guid: dda1d99c5f002504181e78b63cfb31e6, type: 3}
+    lockStatus: 1
+  - levelID: 46
+    levelName: Level1-46
+    levelButtonSprite: {fileID: 21300000, guid: 8f846735c92f51243bbb71347eeda81f,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 8c01ac8259b1dd043b763241866343a0, type: 3}
+    levelBackground: {fileID: 21300000, guid: 84a0988a4e5202e45ac98ff0fe50b91b, type: 3}
+    lockStatus: 1
+  - levelID: 47
+    levelName: Level1-47
+    levelButtonSprite: {fileID: 21300000, guid: 8d34fbeae300d3f42a73c73527c819f9,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: e044fa49b9be1eb42a7edc76a2b7843b, type: 3}
+    levelBackground: {fileID: 21300000, guid: a9cc9757bee223b458c49dd60e65065f, type: 3}
+    lockStatus: 1
+  - levelID: 48
+    levelName: Level1-48
+    levelButtonSprite: {fileID: 21300000, guid: 02bf7386af0c1f74690dde45334e03a5,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 64f50f997757ba54689138305783608e, type: 3}
+    levelBackground: {fileID: 21300000, guid: 3cc61aa9a659cca4e93eba286bbb3cc6, type: 3}
+    lockStatus: 1
+  - levelID: 49
+    levelName: Level1-49
+    levelButtonSprite: {fileID: 21300000, guid: 78022ec6213e7524d8c7049220868000,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 6a4e24a0bc1b2fa4fa40c52c451bf3c7, type: 3}
+    levelBackground: {fileID: 21300000, guid: 338bd8cfdc2c6c14896571f831491c4b, type: 3}
+    lockStatus: 1
+  - levelID: 50
+    levelName: Level1-50
+    levelButtonSprite: {fileID: 21300000, guid: 9a250de1f9d21b5478d5ff3aabd11269,
+      type: 3}
+    levelPreview: {fileID: 21300000, guid: 8e2315e22337fc64dbe8832a64da2d6f, type: 3}
+    levelBackground: {fileID: 21300000, guid: ef73dd1eb7f8ccc4089eb70fef3fd607, type: 3}
+    lockStatus: 1

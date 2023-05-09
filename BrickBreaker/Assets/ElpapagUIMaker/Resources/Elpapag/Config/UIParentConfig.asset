@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d3e005f28901a4fa91d0fcdbc0c805, type: 3}
+  m_Name: UIParentConfig
+  m_EditorClassIdentifier: 
+  uiParents:
+  - uiID: ScreenTest
+    parentID: -1596
+  - uiID: TeamName
+    parentID: -1596
+  - uiID: TeamNameUIPopUp
+    parentID: -1596
+  - uiID: CreateStrategyPlansUI
+    parentID: -1596
+  - uiID: TeamNameUIPopUp
+    parentID: -12462
+  - uiID: WelcomeTeamUIPopup
+    parentID: -12462
+  - uiID: WelcomeTeamUIPopup
+    parentID: -12462
+  - uiID: 
+    parentID: -12462
+  - uiID: CreateStrategyPlansUI
+    parentID: -12462
+  - uiID: CreateStrategyPlansEditorUI
+    parentID: -12462
+  - uiID: GeneralPopup
+    parentID: -12462
+  - uiID: UITeamWaitPopup
+    parentID: -12462
+  - uiID: GameplayHUD
+    parentID: -19110
+  - uiID: GameOverScreen
+    parentID: -19110
+  - uiID: LevelMap
+    parentID: -19110
+  - uiID: GameLostScreen
+    parentID: -19110
+  - uiID: LevelSelectionPopup
+    parentID: -19110
+  - uiID: LevelSelectionUnlock
+    parentID: -19110
+  - uiID: AchivementsScreen
+    parentID: -19110
+  - uiID: SettingsUI
+    parentID: -19110
+  - uiID: PowerUpInfo
+    parentID: -19110
+  - uiID: ShopScreen
+    parentID: -19110
+  - uiID: DailyRewardScreen
+    parentID: -19110
+  - uiID: LevelMapHUD
+    parentID: -85514
+  - uiID: RewardClaimPopup
+    parentID: -19110
